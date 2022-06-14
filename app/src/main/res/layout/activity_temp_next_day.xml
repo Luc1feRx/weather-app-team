@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.TempNextDay"
+    android:orientation="vertical"
+    android:background="@drawable/img_3">
+    <TextView
+        android:id="@+id/txtCity"
+        android:textColor="#749C98"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:text="Thành phố"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHighlight="#A7DFE6"
+        ></TextView>
+    <ListView
+        android:id="@+id/lvWeather"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ListView>
+</LinearLayout>

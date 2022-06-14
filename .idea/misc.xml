@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BaiHoc/adroid/WeatherApp/app/src/main/res/drawable/bo_recycle.xml" value="0.1415" />
+        <entry key="..\:/BaiHoc/adroid/WeatherApp/app/src/main/res/drawable/buttom_style.xml" value="0.1415" />
+        <entry key="..\:/BaiHoc/adroid/WeatherApp/app/src/main/res/layout/activity_days53hour.xml" value="0.26927083333333335" />
+        <entry key="..\:/BaiHoc/adroid/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/BaiHoc/adroid/WeatherApp/app/src/main/res/layout/activity_temp_next_day.xml" value="0.21944444444444444" />
+        <entry key="..\:/BaiHoc/adroid/WeatherApp/app/src/main/res/layout/item_weather.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.1871345029239766" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_temp_next_day.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/item_weather.xml" value="0.25" />
+        <entry key="..\:/WeatherApp/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.17" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_days53hour.xml" value="0.20969202898550723" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.20969202898550723" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_maps.xml" value="0.23177083333333334" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_mapss.xml" value="0.23177083333333334" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_temp_next_day.xml" value="0.20969202898550723" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/custom_inforwindow.xml" value="0.23177083333333334" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/item_weather.xml" value="0.20969202898550723" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/weather_item_5days.xml" value="0.20969202898550723" />
+        <entry key="..\:/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2515" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="100">
+    <LinearLayout
+        android:layout_weight="50"
+        android:layout_width="0dp"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        <TextView
+            android:layout_gravity="center"
+            android:id="@+id/txtCurrentTime"
+            android:textSize="17sp"
+            android:text="Ngày"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"></TextView>
+
+        <TextView
+            android:id="@+id/txtWeatherState"
+            android:textSize="11sp"
+            android:text="Trạng thái thời tiết"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"></TextView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="50"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:gravity="center">
+        <ImageView
+            android:id="@+id/imgWeather"
+            android:src="@drawable/ic_launcher_background"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="10dp">
+        </ImageView>
+        <TextView
+            android:id="@+id/txtTempMax"
+            android:layout_marginRight="10dp"
+            android:text="độ max"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"></TextView>
+        <TextView
+            android:id="@+id/txtTempMin"
+            android:text="độ min"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"></TextView>
+    </LinearLayout>
+</LinearLayout>
